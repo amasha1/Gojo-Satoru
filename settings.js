@@ -19,30 +19,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
+global.owner = ['0701651987']
+global.premium = ['0701651987']
+global.ownernomer = '0701651987'
+global.ownername = '𝙰𝙼𝙰𝚂𝙷𝙰 𝙸𝙽𝙳𝚄𝙽𝙸𝙻 🐼❤️'
+global.botname = '𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮T'
+global.footer = '© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝙼𝙰𝚂𝙷𝙰 𝙸𝙽𝙳𝚄𝙽𝙸𝙻 🐼❤️'
+global.ig = 'https://chat.whatsapp.com/KwhBPTk1yvWLrpmGcgdA2h'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
+global.sc = 'https://chat.whatsapp.com/KwhBPTk1yvWLrpmGcgdA2h'
+global.myweb = 'https://chat.whatsapp.com/KwhBPTk1yvWLrpmGcgdA2h'
+global.packname = '𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮T'
 global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: '*Done ✓*',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: '*Wait A minute... ||° 🐇🌸*',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
@@ -60,10 +60,10 @@ global.mess = {
    potionawal: 1
 }
 global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.flaming = 'https://i.ibb.co/WzSFtDJ/Picsart-22-08-30-19-08-44-087.jpg'
+global.fluming = 'https://i.ibb.co/WzSFtDJ/Picsart-22-08-30-19-08-44-087.jpg'
+global.flarun = 'https://i.ibb.co/WzSFtDJ/Picsart-22-08-30-19-08-44-087.jpg'
+global.flasmurf = 'https://i.ibb.co/WzSFtDJ/Picsart-22-08-30-19-08-44-087.jpg'
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
